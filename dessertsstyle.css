@@ -1,5 +1,5 @@
 header, footer {
-  background-color: #ffa500;
+  background-color: pink;
   text-align: center;
   min-width: 500px;
 }
@@ -19,12 +19,12 @@ main {
 }
 
 h2 {
-  font-family: Georgia;
+  font-family:Lucida Fax;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: black;
   padding: 10px 0px 10px 10px;
 }
 
@@ -70,16 +70,16 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: black;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
 
 .logo {
-  width: 115px;
+  width: 117px;
   height: 21.1px;
   object-fit: contain;
-  padding: 20px;
+  padding: 23px;
 }
 
 .container {
@@ -90,4 +90,4 @@ img {
 footer {
   margin-top: 44px;
 }
-
+-
