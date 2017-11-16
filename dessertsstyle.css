@@ -16,7 +16,6 @@ main {
   align-items: stretch;
   align-content: center;
   grid-auto-row: 500px;
-  font-color: red;
 }
 
 h2 {
@@ -33,6 +32,10 @@ img {
   width: 100%;
   height: auto;
 }
+.recipe_a{
+font-color: red;
+}
+
 
 .recipe {
   width: 200px;
