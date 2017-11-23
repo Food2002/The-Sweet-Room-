@@ -46,7 +46,7 @@ img {
   padding-left: 10px;
   padding-top: 10px;
   width: 20px;
-  height: auto;
+  height: 50;
 }
 
 .mins {
@@ -75,7 +75,7 @@ img {
 
 .logo {
   width: 115px;
-  height: 21.1px;
+  height: 20px;
   object-fit: contain;
   padding: 20px;
 }
