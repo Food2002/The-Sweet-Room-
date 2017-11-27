@@ -1,6 +1,9 @@
 img{
   width:900x;
   height:300px;
+  display: block;
+  margin: 0 auto;
+}
 }
 body {
   background-color:pink;
