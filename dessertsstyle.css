@@ -29,6 +29,7 @@ img {
   max-width: 300px;
   height: auto;
   display: centre;
+  margin: 0 auto; 
 }
 
 .recipe {
