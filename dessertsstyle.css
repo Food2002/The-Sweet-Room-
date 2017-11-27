@@ -26,14 +26,14 @@ h2 {
 
 img {
   
-  max-width: 200px;
+  max-width:500px;
   height: auto;
   display: centre;
   margin: 0 auto; 
 }
 
 .recipe {
-  width: 200px;
+  width: 500px;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -74,7 +74,7 @@ img {
   color: #4a4a4a;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
-  width: 200px;
+  width: 500px;
 }
 
 .logo {
