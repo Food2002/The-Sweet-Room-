@@ -26,14 +26,14 @@ h2 {
 
 img {
   
-  max-width:500px;
+  max-width:200px;
   height: auto;
   display: centre;
   margin: 0 auto; 
 }
 
 .recipe {
-  width: 400px;
+  width: 200px;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
 }
 
