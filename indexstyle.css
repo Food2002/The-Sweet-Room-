@@ -1,9 +1,10 @@
-img.centre{
+img{
   width:900x;
   height:300px;
-  position: absolute;
-  top: 0; bottom:0; left: 0; right:0;
-  margin: auto;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
 }
 body {
   background-color:pink;
