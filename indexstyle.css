@@ -18,3 +18,7 @@ color:blue
 }
 .title
   color:Blue;
+}
+.uppercase {
+  text-transform: uppercase;
+}
