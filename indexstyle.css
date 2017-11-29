@@ -1,13 +1,13 @@
-img{
+.img{
   width:900x;
   height:300px;
   display: block;
   margin: 0 auto;
 }
-body {
+.body {
   background-color:pink;
 }
-.The Sweet Room{
+.header{
 font-size: 36px;
 color:blue;
 }
