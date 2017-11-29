@@ -1,18 +1,18 @@
-.img{
+img{
   width:900x;
   height:300px;
   display: block;
   margin: 0 auto;
 }
-.body {
+body {
   background-color:pink;
 {
-.title{
+p{
 font-size: 36px;
 color:blue;
 font-family: "Times New Roman", Times, serif;
 }
-.h3
+h3
 font-size:40;
 color:blue
 }
