@@ -1,9 +1,9 @@
 .box_a{
- border: 2px solid red;
- padding: 50px, 10%;
- margin: 30px;
+ border: 2px solid white;
+ padding: 50px;
+ margin: 30px auto;
  max-width: 1000px
 }
 body {
- background-color: purple;
+ background-color: pink;
 }
