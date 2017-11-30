@@ -20,3 +20,6 @@ color:blue
 .uppercase {
   text-transform: uppercase;
 }
+.titlecontainer{
+  text-align: center;
+  }
