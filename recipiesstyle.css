@@ -1,6 +1,6 @@
 .box_a{
  border: 2px solid red;
- padding: 50px;
+ padding: 50px, 10%;
  margin: 30px;
  max-width: 1000px
 }
