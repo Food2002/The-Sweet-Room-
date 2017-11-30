@@ -1,1 +1,5 @@
-
+.box_a{
+ border: 2px solid red;
+ padding: 50px;
+ margin: 30px;
+}
