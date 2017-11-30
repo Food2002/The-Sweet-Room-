@@ -10,16 +10,12 @@ body {
 p {
   font-family: Arial;
 }
-h3
+h3 {
 font-size:40;
 color:blue
 }
-.title{
- color:Blue;
- }
-.uppercase {
-  text-transform: uppercase;
-}
-.titlecontainer{
+
+
+#titlecontainer{
   text-align: center;
   }
