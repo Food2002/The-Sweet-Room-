@@ -5,17 +5,19 @@ img{
   margin: 0 auto;
 }
 body {
-  background-color:pink;
+  background-color:purple;
 {
 p {
   font-family: Arial;
 }
 h3 {
 font-size:40;
-color:blue
+color:blue;
+text-align: center
 }
-H2 { text-align: center }
-H3 { text-align: center }
+h2 { 
+  text-align: center;
+  }
 #titlecontainer{
   text-align: center;
   }
