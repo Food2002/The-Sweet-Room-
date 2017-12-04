@@ -28,6 +28,8 @@ img {
   width: 500px;
   padding: 100px;
   margin: 0;
+  display: block;
+  margin: 0 auto;
 }
 
 .recipe {
