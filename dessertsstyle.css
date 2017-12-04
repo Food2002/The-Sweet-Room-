@@ -25,11 +25,9 @@ h2 {
 }
 
 img {
-  width: 500px;
-  padding: 100px;
+  width: 600px;
+  padding: 10px;
   margin: 0;
-  display: block;
-  margin: 0 auto;
 }
 .recipe {
   width: 500px;
