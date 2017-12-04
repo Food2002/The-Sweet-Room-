@@ -13,3 +13,7 @@ grid {
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+.content {
+    max-width: 500px;
+    margin: auto;
+}
