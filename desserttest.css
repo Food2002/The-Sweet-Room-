@@ -1,6 +1,6 @@
 .grid {
   display: grid;
-  border: 2px blue solid;
+  border: 2px pink solid;
   width: 600px;
   height: 800px;
   grid-template-columns: 50% 50%;
@@ -11,7 +11,7 @@
   background-color: beige;
   color: black;
   border-radius: 5px;
-  border: 2px dodgerblue solid;
+  border: 2px green solid;
 }
 
 img{
