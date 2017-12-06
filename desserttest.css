@@ -1,4 +1,4 @@
-grid {
+.grid {
   display: grid;
   border: 2px blue solid;
   width: 600px;
