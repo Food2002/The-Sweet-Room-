@@ -1,9 +1,6 @@
 .grid {
   display: grid;
-  
-  border: 2px green solid;
-  width: 600px;
-  height: 800px;
+
   grid-template: auto auto / auto auto;
   
 }
