@@ -1,6 +1,6 @@
 .grid {
   display: grid;
-
+  padding: 5%;
   grid-template: auto auto / auto auto;
   
 }
@@ -9,10 +9,15 @@
   background-color: beige;
   color: black;
   border-radius: 5px;
-  border: 2px yellow solid;
+  border: 2px pink solid;
 }
 
 img{
   max-width: 300px;
   max-height: 200px;
 }
+
+
+
+
+
