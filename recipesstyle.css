@@ -7,3 +7,12 @@
 body {
  background-color: pink;
 }
+
+iframe {    
+    width:50%;    
+    float:right;    
+}
+
+.clear {    
+    clear:both;    
+}
