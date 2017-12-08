@@ -1,7 +1,5 @@
-header, footer {
-  background-color: pink;
-  text-align: center;
-  min-width: 500px;
+body {
+  background-color:pink;
 }
 
 .grid {
