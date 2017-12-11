@@ -13,12 +13,12 @@ h2 {
 body {
   background-color:pink;
 }
-.row
+.row{
  text-align: center;
  font-size: 30px;
 font-family:fantasy;
 }
- .grid {
+.grid {
   display: grid;
   padding:%5;
   grid-template: 25% 50% 25% / 100% 100%;
