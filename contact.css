@@ -2,13 +2,14 @@ p {
  font-family: cursive;
 }
 h3 {
-font-size:40;
+font-size:60;
 color:black;
 text-align: center
-fon-family:Comic Sans MS;
+font-family:Comic Sans MS;
 }
 h2 { 
   text-align: center;
+ font-size:80;
 }
 body {
   background-color:pink;
