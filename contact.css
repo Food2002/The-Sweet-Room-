@@ -5,6 +5,7 @@ h3 {
 font-size:40;
 color:black;
 text-align: center
+fon-family:Comic Sans MS;
 }
 h2 { 
   text-align: center;
@@ -12,10 +13,14 @@ h2 {
 body {
   background-color:pink;
 }
-
-.grid {
+.row
+ text-align: center;
+ font-size: 30px;
+font-family:fantasy;
+}
+ .grid {
   display: grid;
-  padding: 5%;
+  padding:%5;
   grid-template: 50% 50% / 50% 50%;
   
 }
