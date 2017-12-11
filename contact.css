@@ -21,7 +21,7 @@ font-family:fantasy;
  .grid {
   display: grid;
   padding:%5;
-  grid-template: 100% 100% / 100% 100%;
+  grid-template: 25% 50% 25% / 100% 100%;
   
 }
 
