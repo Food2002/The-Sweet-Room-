@@ -18,16 +18,19 @@ body {
  font-size: 30px;
 font-family:fantasy;
 }
-.grid {
+ .grid {
   display: grid;
   padding:%5;
-  grid-template: 25% 50% 25% / 100% 100%;
+  grid-template: 50% 50% / 25% 50% 25%;
   
 }
 
+
 .box {
-  background-color: white;
-  color: black;
+   text-align: center;
+}
+
+  font: black;
   border-radius: 5px;
   border: 2px pink solid;
   text-align: center;
