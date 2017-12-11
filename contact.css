@@ -9,3 +9,22 @@ text-align: center
 h2 { 
   text-align: center;
 }
+body {
+  background-color:pink;
+}
+
+.grid {
+  display: grid;
+  padding: 5%;
+  grid-template: 50% 50% / 50% 50%;
+  
+}
+
+.box {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  border: 2px pink solid;
+  text-align: center;
+}
+
