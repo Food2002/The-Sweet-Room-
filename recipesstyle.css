@@ -1,7 +1,7 @@
 .box_a{
  border: 2px solid white;
  padding: 50px;
- margin: 50px auto;
+ margin: 100px auto;
  max-width: 1000px
 }
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 iframe {    
-    width:45%;    
+    width:50%;    
     float:right;    
 }
 
