@@ -23,7 +23,11 @@ img{
   display: block;
   margin: auto;
 }
-
+.row{
+ text-align: center;
+ font-size: 30px;
+ font-family:fantasy;
+}
 
 
 
