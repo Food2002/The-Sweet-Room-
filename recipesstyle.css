@@ -16,3 +16,8 @@ iframe {
 .clear {    
     clear:both;    
 }
+.row{
+ text-align: center;
+ font-size: 30px;
+ font-family:fantasy;
+}
