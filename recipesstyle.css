@@ -7,9 +7,9 @@
 body {
  background-color: pink;
 }
-
 iframe {    
-    width:50%;    
+    width:50%;  
+    height: auto;
     float:right;    
 }
 
