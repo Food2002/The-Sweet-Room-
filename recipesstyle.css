@@ -8,11 +8,13 @@ body {
  background-color: pink;
  
 }
-#container {
-    border: 1px solid red;
-    width: 560px;
-    text-align: center
-     
+
+   }
+iframe {    
+    width:50%;  
+    height: auto;
+    float:right;   
+ 
 }
 
 .clear {    
