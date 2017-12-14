@@ -1,11 +1,13 @@
 .box_a{
  border: 2px solid white;
- padding: 50px;
- margin: 30px auto;
  max-width: 1000px
 }
+
 body {
  background-color: pink;
+ padding: 1% 5% 1% 5%;
+    
+    
 }
 
 iframe {    
@@ -16,4 +18,3 @@ iframe {
 .clear {    
     clear:both;    
 }
-
