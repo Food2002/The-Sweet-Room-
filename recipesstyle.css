@@ -6,11 +6,18 @@
 }
 body {
  background-color: pink;
+ 
 }
-iframe {    
-    width:50%;  
-    height: auto;
-    float:right;    
+#container {
+    border: 1px solid red;
+    width: 560px;
+    text-align: center;
+}
+
+#vid {
+    margin-bottom: 25px;   
+
+
 }
 
 .clear {    
