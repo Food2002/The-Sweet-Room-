@@ -11,7 +11,8 @@ body {
 }
 
 iframe {    
-    width:50%;    
+    width:50%;
+    height: auto;  
     float:right;    
 }
 
@@ -22,4 +23,7 @@ iframe {
  text-align: center;
  font-size: 30px;
  font-family:fantasy;
+}
+
+
 }
